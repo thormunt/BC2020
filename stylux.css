@@ -1,0 +1,19 @@
+
+
+#titulo {
+font-family:"Comic Sans MS", sans-serif;
+
+}
+
+#par {
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+}
+
+ #img.images  {
+  width: 20%;
+  height: 50px;
+  display: block;
+  margin: auto;
+  align: center;
+}

@@ -1,0 +1,63 @@
+
+
+  body {
+    background-image: url(http://weiweidigital.com/wp-content/uploads/2016/08/fondo-negro.jpg);
+
+    background-size:90vw 100vh;
+    background-attachment: fixed;
+    margin: 0;
+  }
+
+  form {
+    width: 700px;
+    margin: auto;
+    background: rgba(0,0,0,0.4);
+    padding: 30px 20px;
+    box-sizing:border-box;
+    margin-top: 50px;
+    border-radius: 10px;
+  }
+
+  h2, h3, h4, p {
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+
+  input, p {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 7px;
+  box-sizing: border-box;
+  font-size: 17px;
+  border: none;
+
+  }
+
+  /*Carrusel slider*/
+
+  .sliderr {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+  }
+
+  .sliderr ul {
+    display: flex;
+    padding: 0;
+    width: 90%;
+  }
+
+  .sliderr li {
+    width: 100%;
+    list-style: none;
+  }
+
+  .sliderr img {
+    width: 100%;
+    margin: auto;
+  }
+
+redes-container

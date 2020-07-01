@@ -1,0 +1,29 @@
+
+div.noticias{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+div.noticias div{
+  width: 300px;
+}
+
+div.noticias div div.desc{
+  padding: 10px;
+}
+
+div.noticias div img{
+  width: 100%;
+  position: relative;
+}
+
+div.noticias div h2{
+  font-size: 20px;
+  color: #000;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
